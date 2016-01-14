@@ -1,0 +1,117 @@
+div.background
+
+{
+
+	background-image: url(nightsky.jpg); 
+
+	border: 3px solid black;
+
+}
+
+div.transparent_area
+
+{
+
+	margin: 400px;
+
+	background-color: #ffffff;
+
+	border: 3px solid black;
+
+	opacity: 0.6;
+
+	filter: alpha(opacity=60);
+
+}
+
+div.transparent_area h1
+
+{
+
+	font-family: "Gentium Book Basic", Georgia, serif;
+
+	margin: 5%;
+
+	font-weight: bold;
+
+	color: red;
+
+}
+
+.more-section, .intro-section, .origins-section
+
+{
+
+	max-width: 38em;
+
+	margin-left: auto;
+
+	margin-right: auto;
+
+	margin-top: 2em;
+
+}
+
+body
+
+{
+
+	background-color: blue;
+	
+	font-size: 1em;
+
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+
+}
+
+h1, h3 
+
+{
+
+	color: gray;
+
+}
+
+p
+
+{
+
+	color: yellow;
+
+}
+
+div.footer-background
+
+{
+
+	background-image: url(processionsky.jpg); 
+
+	border: 3px solid black;
+
+	padding: 35%;
+
+}
+
+a 
+
+{
+
+	color: red;
+
+}
+
+.content-footer
+
+{
+
+	text-align: center;
+
+}
+
+.social > li
+
+{
+
+	display: inline-block;
+
+}
